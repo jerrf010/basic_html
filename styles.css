@@ -3,7 +3,7 @@ body {
     line-height: 1.4;
     background-color: #f4f4f4;
     color: #333;
-    margin: 0;
+    margin: 20px;
     padding: 0;
 }
 
@@ -13,11 +13,11 @@ ul {
 }
 
 li {
-    margin-bottom: 20px;
+    margin-bottom: 10px;
 }
 
 a {
-    color: #61a913;
+    color: #1100ff;
     text-decoration: none;
 }
 
@@ -29,4 +29,19 @@ a:hover {
     margin: auto;
     overflow: hidden;
     padding: 20px;
+}
+
+button {
+    display: inline-block;
+    background: #b2cbe6;
+    color: #a72121;
+    padding: 10px 20px;
+    border: 2px solid #ff00005a;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+img {
+    max-width: 90%;
+    height: auto;
 }
