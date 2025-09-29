@@ -22,4 +22,4 @@ This repository contains a simple HTML website to demonstrate basic web developm
 
 ## Live Demo
 
-View the site on [GitHub Pages](https://jerrf010.github.io/basic_html/).
+View the site on [GitHub Pages](https://jerrf010.github.io/basic_html.jerrf010.github.io/index.html).
